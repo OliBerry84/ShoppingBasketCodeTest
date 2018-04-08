@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775c6d5e-5fd4-478b-b9d3-6e4d58349b64" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ShoppingBasketTest.class" afterPath="$PROJECT_DIR$/out/test/classes/ShoppingBasketTest.class" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" afterPath="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java" afterPath="$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java" afterPath="$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,21 +26,21 @@
       <file leaf-file-name="ShoppingBasket.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="-39">
+              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
               <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +68,8 @@
       <file leaf-file-name="TenPerCentDiscount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,15 +78,25 @@
       <file leaf-file-name="ShoppingBasketTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-497">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoPerCentLoyaltyDiscount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TwoPerCentLoyaltyDiscount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -415,9 +424,10 @@
         <option value="$PROJECT_DIR$/src/main/java/DogFood.java" />
         <option value="$PROJECT_DIR$/src/main/java/IDiscounts.java" />
         <option value="$PROJECT_DIR$/src/main/java/BuyOneGetOneFree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ShoppingBasket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TwoPerCentLoyaltyDiscount.java" />
       </list>
     </option>
   </component>
@@ -474,6 +484,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="ShoppingBasketCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShoppingBasketCodeTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -499,7 +516,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShoppingBasketTest.canGetTenPerCentDiscount">
+  <component name="RunManager" selected="JUnit.ShoppingBasketTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -581,14 +598,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ShoppingBasketTest.canGetReceiptTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ShoppingBasketCodeTest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
-      <option name="METHOD_NAME" value="canGetReceiptTotal" />
+      <option name="METHOD_NAME" value="canGetTenPerCentDiscount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -601,14 +618,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ShoppingBasketCodeTest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ShoppingBasketTest" />
-      <option name="METHOD_NAME" value="canGetTenPerCentDiscount" />
+      <option name="METHOD_NAME" value="canGetTwoPerCentLoyaltyDiscount" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -682,19 +699,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetReceiptTotal" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canEmptyBasket" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canBuyOneGetOneFree" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTenPerCentDiscount" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canEmptyBasket" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canBuyOneGetOneFree" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTenPerCentDiscount" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTenPerCentDiscount" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canBuyOneGetOneFree" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canEmptyBasket" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetReceiptTotal" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canGetTenPerCentDiscount" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canBuyOneGetOneFree" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ShoppingBasketTest.canEmptyBasket" />
       </list>
     </recent_temporary>
   </component>
@@ -718,20 +735,8 @@
     <history-entry file="ShoppingBasketTest - 2018.04.09 at 00h 05m 59s.xml">
       <configuration name="ShoppingBasketTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ShoppingBasketTest_canBuyOneGetOneFree - 2018.04.08 at 23h 19m 49s.xml">
-      <configuration name="ShoppingBasketTest.canBuyOneGetOneFree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.08 at 23h 42m 49s.xml">
-      <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.08 at 23h 53m 01s.xml">
-      <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.08 at 23h 54m 56s.xml">
-      <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.08 at 23h 55m 47s.xml">
-      <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
+    <history-entry file="ShoppingBasketTest - 2018.04.09 at 00h 23m 08s.xml">
+      <configuration name="ShoppingBasketTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.08 at 23h 57m 05s.xml">
       <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
@@ -744,6 +749,18 @@
     </history-entry>
     <history-entry file="ShoppingBasketTest_canGetTenPerCentDiscount - 2018.04.09 at 00h 09m 56s.xml">
       <configuration name="ShoppingBasketTest.canGetTenPerCentDiscount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest_canGetTwoPerCentLoyaltyDiscount - 2018.04.09 at 00h 17m 23s.xml">
+      <configuration name="ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest_canGetTwoPerCentLoyaltyDiscount - 2018.04.09 at 00h 18m 02s.xml">
+      <configuration name="ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest_canGetTwoPerCentLoyaltyDiscount - 2018.04.09 at 00h 19m 35s.xml">
+      <configuration name="ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShoppingBasketTest_canGetTwoPerCentLoyaltyDiscount - 2018.04.09 at 00h 22m 25s.xml">
+      <configuration name="ShoppingBasketTest.canGetTwoPerCentLoyaltyDiscount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -758,7 +775,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -855,6 +872,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IDiscounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TwoPerCentLoyaltyDiscount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="62" lean-forward="false" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Items.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -874,51 +915,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ShoppingBasket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="-39">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
           <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IDiscounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TenPerCentDiscount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingBasketTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-497">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
           </folding>
         </state>
       </provider>

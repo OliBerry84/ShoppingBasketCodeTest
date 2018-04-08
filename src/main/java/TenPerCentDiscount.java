@@ -2,9 +2,6 @@ import java.util.ArrayList;
 
 public class TenPerCentDiscount implements IDiscounts{
 
-    Items items;
-    ShoppingBasket shoppingBasket;
-
     public ArrayList<Items> appliedDiscount(ArrayList<Items> shoppingItems) {
 
         double receiptTotal = 0;
