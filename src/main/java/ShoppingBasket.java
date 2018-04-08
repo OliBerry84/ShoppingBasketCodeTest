@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ShoppingBasket {
+public class ShoppingBasket{
 
     private ArrayList<Items> shoppingItems;
 
@@ -35,4 +35,5 @@ public class ShoppingBasket {
         }
         return receiptTotal;
     }
+
 }

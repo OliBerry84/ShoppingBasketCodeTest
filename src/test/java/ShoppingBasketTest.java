@@ -9,6 +9,7 @@ public class ShoppingBasketTest {
     Dog dog;
     DogBed dogBed;
     DogFood dogFood;
+    TenPerCentDiscount tenPerCentDiscount;
 
     @Before
     public void before(){
@@ -16,6 +17,7 @@ public class ShoppingBasketTest {
         dog = new Dog("Boxer", 400.00);
         dogBed = new DogBed("Comfort Plus", 45.00);
         dogFood = new DogFood("Royal Canin Boxer", 50.00);
+        tenPerCentDiscount = new TenPerCentDiscount();
     }
 
     @Test
@@ -69,5 +71,13 @@ public class ShoppingBasketTest {
         shoppingBasket.addItem(dog);
         shoppingBasket.addItem(dogFood);
         assertEquals(495.00, shoppingBasket.receiptTotal(), .05);
+    }
+
+    @Test
+    public void canGetTenPerCentDiscount(){
+        shoppingBasket.addItem(dog);
+        shoppingBasket.addItem(dogFood);
+        tenPerCentDiscount.appliedDiscount(shoppingBasket.getShoppingItems());
+        assertEquals(405.00,shoppingBasket.receiptTotal(),.05);
     }
 }
