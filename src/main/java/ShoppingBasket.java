@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class ShoppingBasket{
 
     private ArrayList<Items> shoppingItems;
-    private ArrayList<IDiscounts> discounts;
 
     public ShoppingBasket(){
         this.shoppingItems = new ArrayList<>();
